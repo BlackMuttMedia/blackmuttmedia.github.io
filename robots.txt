@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://blackmuttmedia.github.io/sitemap.xml 
